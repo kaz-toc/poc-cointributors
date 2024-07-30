@@ -17,7 +17,9 @@ githubのwebhookを使い、push（実装）、comment（レビュー）、issue
 また、プロダクトオーナーはプロダクトの進捗状況と、controbutorの貢献度愛によりステーキングしたトークンを元にvoteすることができるようになる
 
 ## concept
-![image](https://github.com/user-attachments/assets/7208d97d-1ee9-4165-a739-08d835ff084f)
+- プロダクトオーナー
+![image](https://github.com/user-attachments/assets/71d30382-f6ce-4535-b76a-1b38625d2d52)
 
-![image](https://github.com/user-attachments/assets/9c023e95-3782-4b85-83c1-cbc92e1c69da)
+- contributor
+![image](https://github.com/user-attachments/assets/08f86958-6f65-40d5-8167-51026ccc6ba3)
 
